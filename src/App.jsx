@@ -38,7 +38,7 @@ const BOT_SUGGESTIONS = {
 
 const QUICK_REPLIES = ["Evening gala look 🌙","Something new ✨","Office outfit 💼","Wedding guest 💍","Casual day 🌿","Traditional kaba 👑","Surprise me 🎲"];
 
-export default function App() {
+export default function LaMaisonJoan() {
   const [page, setPage] = useState("home");
   const [cart, setCart] = useState([]);
   const [wishlist, setWishlist] = useState([]);
