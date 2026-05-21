@@ -1,2 +1,1 @@
-# BOLLORE
-OK
+Upload this full folder to GitHub, then import into Vercel.
